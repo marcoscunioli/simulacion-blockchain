@@ -1,1 +1,3 @@
-streamlit
+cryptography==45.0.7
+pymerkle==6.1.0
+streamlit==1.49.1
